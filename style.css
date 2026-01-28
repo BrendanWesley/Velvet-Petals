@@ -990,3 +990,78 @@ footer {
         font-size: 2rem;
     }
 }
+@media (max-width: 480px) {
+    body {
+        font-size: 14px;
+    }
+
+    nav {
+        padding: 1rem 5%;
+    }
+
+    .logo {
+        font-size: 1.4rem;
+        letter-spacing: 2px;
+    }
+
+    .hero-content h1 {
+        font-size: 2.4rem;
+        line-height: 1.2;
+    }
+
+    .hero-tagline {
+        font-size: 1rem;
+        padding-left: 1rem;
+    }
+
+    .section-title {
+        font-size: 1.6rem;
+    }
+
+    .about-content {
+        font-size: 1rem;
+        line-height: 1.8;
+        padding: 1rem;
+    }
+
+    .feature-box {
+        padding: 2rem 1.5rem;
+    }
+
+    .deal-box {
+        padding: 2rem 1.5rem;
+    }
+
+    .product-image {
+        height: 220px;
+    }
+
+    .product-name {
+        font-size: 1.2rem;
+    }
+
+    .product-price {
+        font-size: 1.4rem;
+    }
+
+    .add-to-cart-btn {
+        padding: 0.8rem;
+        font-size: 0.75rem;
+    }
+
+    .cart-header h2 {
+        font-size: 1.4rem;
+    }
+
+    .cart-total {
+        font-size: 1.4rem;
+    }
+
+    footer {
+        padding: 3rem 5%;
+    }
+
+    .footer-info p {
+        font-size: 0.85rem;
+    }
+}
